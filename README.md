@@ -9,6 +9,7 @@ Collection of talks organized for the Xamarin and .NET community.
 ## Talks List
 - [Streaming on Xamarin Forms with Wowza Client Plugin - Xamarin Online LATAM Fest](StreamingOnXamarinForms_WowzaClientPlugin/) - Luis Pujols
 - [Let's talk Architecture with Prism](ArchitectureWithPrism/) - Luis Pujols
+- [Consuming RESTFul Services with Refit](ConsumingRESTfulServicesWithRefit/) - Luis Pujols
 
 
 ## Contributors
